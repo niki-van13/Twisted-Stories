@@ -4,7 +4,10 @@ Du bygga ett textbaserat storyspel där spelaren färdas på stigar i din story.
 
 
 #Installation instructions
-Clone down the project to you computer:
-https://github.com/niki-van13/Twisted-Stories
 
-oppna terminalen , kör npm run dev 
+*Projektet  är byggas i TypeScript
+*Clone down the project to you computer:
+ - https://github.com/niki-van13/Twisted-Stories
+* Projektet körs via Vite
+*npm install
+*npm run dev
