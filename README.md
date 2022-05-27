@@ -5,13 +5,11 @@ Du bygga ett textbaserat storyspel där spelaren färdas på stigar i din story.
 
 #Installation instructions
 
-Projektet  är byggas i TypeScript
+Spelet är inbyggd i typescript och körs via Vite 
 
 Clone down the project to you computer:
 https://github.com/niki-van13/Twisted-Stories
   
-Projektet körs via Vite
-
 npm install
 
 npm run dev
